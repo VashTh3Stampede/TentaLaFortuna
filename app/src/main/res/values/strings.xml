@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tenta La Fortuna</string>
+    <string name="Lancia_una_Moneta">Lancia una Moneta</string>
+    <string name="Genera_Numeri">Generatore di Numeri</string>
+    <string name="Tira_un_Dado">Tira un Dado</string>
+    <string name="Lancia_Dado">Lancia il Dado</string>
+    <string name="Lancia_Moneta">Lancia la Moneta</string>
+    <string name="Limite_inferiore">---</string>
+    <string name="Limite_Superiore">---</string>
+    <string name="Genera_Numero">Genera un Numero</string>
+</resources>
